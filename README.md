@@ -33,6 +33,3 @@ python ai_chess_game.py
 - The game starts with White (Player) vs. AI (Black).
 - Click on a piece to select it and then click on a valid square to move.
 - The AI will automatically make a move after the player moves.
-
-## License
-This project is open-source and free to use.
